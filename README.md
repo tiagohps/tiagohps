@@ -1,7 +1,7 @@
 ### Hi there 📚 
 <br>
 <br>
-Eu sou Tiago Pereira, sou um Programador Front End, atualmente estou prendendo e criando projetos com:
+Eu sou Tiago Pereira, sou um Programador Front End, atualmente estou aprendendo e criando projetos com:
 <br>
 <br>
 
